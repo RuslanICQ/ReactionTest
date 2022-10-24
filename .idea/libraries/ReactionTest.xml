@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ReactionTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ReactionTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
